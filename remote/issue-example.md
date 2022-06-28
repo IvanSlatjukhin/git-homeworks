@@ -22,4 +22,6 @@
 
 #### Скриншоты
 
-![](https://i.imgur.com/HJ1VbMj.png)
+![Картинка](https://user-images.githubusercontent.com/108022424/176268100-4fcfe177-3b1a-4286-9a0b-c210845a4221.png)
+
+@solarrust
